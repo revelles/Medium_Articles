@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.apdisk
+._*
+
+# iCloud artifacts
+*.icloud
+
+# Logs
+*.log
+
+# Thumbnails
+Thumbs.db
+
+# Medium export artifacts
+*.medium-export
+*.html
